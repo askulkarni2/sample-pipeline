@@ -1,1 +1,1 @@
-# MLOps Demo for Kubeflow
+# MLOps Demo for Kubeflow on AWS
