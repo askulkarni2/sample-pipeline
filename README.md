@@ -1,1 +1,1 @@
-# sample-pipeline
+# MLOps Demo for Kubeflow
