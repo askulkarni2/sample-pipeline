@@ -1,1 +1,1 @@
-# MLOps Demo for Kubeflow
+# MLOps Github Demo for Kubeflow
