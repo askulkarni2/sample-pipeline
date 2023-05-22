@@ -1,1 +1,1 @@
-# MLOps Github Demo
+# MLOps Github Demo on AWS
